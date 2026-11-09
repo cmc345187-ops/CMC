@@ -1,0 +1,6 @@
+{
+  "name": "হাসপাতালের রুম বুকিং ও অপেক্ষমাণ তালিকা ব্যবস্থাপনা",
+  "description": "Hospital Room Booking & Waiting List Management System with live search, room allocation workflow, confirmed bookings, and daily printable reports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
